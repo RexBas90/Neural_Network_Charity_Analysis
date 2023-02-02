@@ -39,8 +39,11 @@ The objective is to utilize machine learning and neural networks to help determi
 - With the above design, the model was not able to achieve the achieve the target model performance of 75%. 
 
 - Three different optimization methods were tried: 
+
 (1) Increasing the number of Epochs
+
 (2) Increase bins
+
 (3) Use tanh activation function in the hidden layers
 
 ### Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
